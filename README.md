@@ -1,6 +1,6 @@
 # Play the Web - Explorând Noul Univers al UX/UI
 
-Bun venit în lumea captivantă a **Play the Web**, un proiect care aduce laolaltă pasiunea pentru designul UX/UI, tehnologia web și inovația digitală. Explorează **Play the Web** pentru a experimenta o interfață interactivă creativă și îmbunătățită, pusă în valoare de elemente vizuale și concepte de experiență a utilizatorului.
+Bun venit în lumea captivantă a **Play the Web**, un proiect care aduce laolaltă pasiunea pentru designul UX/UI, tehnologia web și inovația digitală. Explorează **Play the Web** pentru a experimenta o interfață interactivă creativă și îmbunătățită, pusă în valoare de elemente vizuale și concepte de experiență a utilizatorului. 
 
 ## Prezentare vizuala
 
