@@ -2,7 +2,7 @@
 
 Bun venit în lumea captivantă a **Play the Web**, un proiect care aduce laolaltă pasiunea pentru designul UX/UI, tehnologia web și inovația digitală. Explorează **Play the Web** pentru a experimenta o interfață interactivă creativă și îmbunătățită, pusă în valoare de elemente vizuale și concepte de experiență a utilizatorului. 
 
-## Prezentare vizuala
+## Prezentare vizuala 
 
 ![Dashboard Desktop](https://github.com/PavelSilviu/Play-the-Web/blob/048c247349c35e5ae7ada95110d295d72dfaa490/readme/DASHBOARD%20WEB.png)
 ![Dashboard Mobile](https://github.com/PavelSilviu/Play-the-Web/blob/048c247349c35e5ae7ada95110d295d72dfaa490/readme/DASHBOARD%20PHONE.png)
