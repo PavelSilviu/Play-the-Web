@@ -18,8 +18,8 @@ Pentru a asigura o experiență excepțională a utilizatorilor, am folosit prin
 
 Descoperă mai multe despre **Play the Web** accesând [website-ul proiectului](https://pavelsilviu.github.io/Play-the-Web/). Acolo, vei avea oportunitatea de a interacționa direct cu interfața noastră și de a experimenta principiile de design și UX/UI aplicate într-un mediu real.
 
-## Vizualizări și Design-uri Inițiale
+## Design Live
 
-Dacă dorești să afli mai multe despre procesul nostru creativ și să vezi primele noastre schițe, vizitează secțiunea [Design-uri Inițiale](https://pavelsilviu.github.io/Play-the-Web/designs.html). Acolo vei găsi o serie de imagini și sketch-uri care evidențiază evoluția designului nostru.
+Dacă dorești să vezi live designul și să afli mai multe despre procesul nostru creativ, vizitează videoclipul de prezentare de pe [YouTube](https://youtu.be/CCBttf4ORsw?si=JAB3b8_CzRNvSUW1). Acolo vei descoperi etapele din spatele proiectului nostru și vei putea să vezi design-ul în acțiune.
 
 Pregătește-te să fii surprins și inspirat de explorarea noastră a UX/UI și să descoperi potențialul nelimitat al designului interactiv. Vă invităm să vizitați [Play the Web](https://pavelsilviu.github.io/Play-the-Web/) chiar acum!
